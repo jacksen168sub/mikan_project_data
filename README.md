@@ -39,3 +39,6 @@
 | seed_info.magnet_link | string | 种子磁链 |
 | file_size | string | 种子大小 |
 | time | string | 种子发布时间 |
+
+# 下载
+[下载](https://github.com/jacksen168sub/mikan_project_data/releases/tag/main)
